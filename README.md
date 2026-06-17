@@ -261,7 +261,7 @@ Providing relevant observational information is often more important than increa
 Clone the repository:
 
 ```bash
-git clone https://github.com/Malbasahi/Black-Hole-Observational-Memory-Project.git
+git clone https://github.com/Malbasahi/Black-Hole-Observational-Memory.git
 cd Black-Hole-Observational-Memory-Project
 ```
 
