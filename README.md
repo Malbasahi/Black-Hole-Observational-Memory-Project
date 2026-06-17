@@ -19,7 +19,7 @@ This project investigates a fundamental question:
 
 > Can observations of a black hole retain recoverable information about events that happened in its past?
 
-Black holes are traditionally viewed as systems that conceal information behind an event horizon. However, the observable environment surrounding a black hole, its accretion disk, photon ring, jet structures, and emitted radiation—may preserve detectable signatures of past physical activity.
+Black holes are traditionally viewed as systems that conceal information behind an event horizon. However, the observable environment surrounding a black hole, its accretion disk, photon ring, jet structures, and emitted radiation, may preserve detectable signatures of past physical activity.
 
 This project introduces the concept of **Observational Memory**, a framework for studying how much information about previous events remains encoded in black-hole observations and for how long that information can be recovered.
 
