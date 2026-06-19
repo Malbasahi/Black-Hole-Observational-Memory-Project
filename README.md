@@ -12,17 +12,17 @@
   </em>
 </p>
 
----
+
 
 ## Overview
 
-Can a present-day observation of a black hole retain information about events that occurred in its past?
+Can a present day observation of a black hole retain information about events that occurred in its past?
 
 This project introduces the concept of **Observational Memory** and investigates whether observable black-hole structures preserve recoverable information about prior physical events.
 
 Using synthetic simulations, deep learning, morphology analysis, GRMHD-inspired bridge datasets, Event Horizon Telescope (EHT) observations, and external validation, the project studies how information persists and degrades across different observational regimes.
 
----
+
 
 ## Main Research Question
 
@@ -34,7 +34,7 @@ The project investigates:
 * When did it happen?
 * How long does the information remain observable?
 
----
+
 
 ## Key Concepts
 
@@ -65,7 +65,7 @@ The duration over which event information remains recoverable.
 
 The maximum timescale over which information remains observable.
 
----
+
 
 ## Main Results
 
@@ -120,7 +120,7 @@ Robustness Validation
 Expanded External Validation
 ```
 
----
+
 
 ## Project Timeline
 
@@ -143,7 +143,7 @@ Expanded External Validation
 | Phase 8-A   | Expanded Real & GRMHD Validation |
 | Final       | Project Synthesis                |
 
----
+
 
 ## Final Scientific Finding
 
@@ -151,7 +151,7 @@ The strongest supported conclusion of the project is:
 
 > Real EHT observations consistently occupy regions of morphology and latent space most closely associated with a GRMHD-inspired synthetic bridge domain. This relationship survives calibration, robustness testing, analogue mapping, metadata reconstruction, and expanded external validation.
 
----
+
 
 ## What This Project Does NOT Claim
 
@@ -169,7 +169,7 @@ Instead, the project provides a framework for:
 * Memory persistence estimation
 * Synthetic-to-real analogue mapping
 
----
+
 
 ## Installation
 
@@ -181,7 +181,7 @@ cd Black-Hole-Observational-Memory
 pip install -r requirements.txt
 ```
 
----
+
 
 ## Repository Structure
 
@@ -197,7 +197,7 @@ src/
 Final_Project_Synthesis.ipynb
 ```
 
----
+
 
 ## Citation
 
